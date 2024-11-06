@@ -87,5 +87,14 @@
         "Descriptor": "UDCore.uplugin",
         "StableBranch": "main",
         "ReleaseNotesURL": "https://udcore.unrealdirective.com/docs/changelog"
+    },
+    {
+        "Name": "SingletonUtil",
+        "Icon": "https://raw.githubusercontent.com/scott-hf/SingletonUtil/main/Resources/Icon128.png",
+        "User": "scott-hf",
+        "Repo": "SingletonUtil",
+        "Descriptor": "SingletonUtil.uplugin",
+        "StableBranch": "main",
+        "ReleaseNotesURL": "https://github.com/scott-hf/SingletonUtil/releases/"
     }
 ]
